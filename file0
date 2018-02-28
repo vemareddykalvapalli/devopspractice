@@ -9,3 +9,15 @@ fdg
 fg
 fgfd
 gjkfdddddddddjkkkkkkkkkkkkkkkkkkkkkkkkkdfkjldjkfdgdjkj
+The default interaction model with Jenkins, historically, has been very web UI driven, requiring users to manually create jobs, then manually fill in the details through a web browser. This requires additional effort to create and manage jobs to test and build multiple projects, it also keeps the configuration of a job to build/test/deploy separate from the actual code being built/tested/deployed. This prevents users from applying their existing CI/CD best practices to the job configurations themselves.
+
+Pipeline
+With the introduction of the Pipeline plugin, users now can implement a project’s entire build/test/deploy pipeline in a Jenkinsfile and store that alongside their code, treating their pipeline as another piece of code checked into source control.
+
+The Pipeline plugin was inspired by the Build Flow plugin but aims to improve upon some concepts explored by Build Flow with features like:
+
+the ability to suspend/resume of executing jobs.
+
+checking the pipeline definition into source control (Jenkinsfile)
+
+support for extending the domain specific language with additional, organization specific steps, via the "Shared Libraries" feature.
