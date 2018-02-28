@@ -2,12 +2,7 @@
 
 పాఠశాలల్లో ఇలాంటి ఘటనలు పునరావృతం కాకుండా కఠిన చర్యలు తీసుకోవాలని ట్రంప్‌ తెలిపారు. ఇలాంటివి జరగకుండా దీర్ఘాకాలిక చర్యలు అవసరమని పేర్కొన్నారు. స్కూల్‌ సిబ్బందిలో శిక్షణ పొందిన, తగిన ధ్రువీకరణ పత్రం కలిగిన వారి వద్ద ఆయుధాలు ఉంచాలని సూచించారు. స్కూల్లో ఆయుధాలతో సెక్యురిటీ గార్డులను నియమించడం కుదురతుందని అనుకోవట్లేదని పేర్కొన్నారు. ఫ్లోరిడా స్కూల్‌లో దాడి జరిగిన సమయంలో డ్యూటీలో ఉన్న డిప్యూటీ షెరీఫ్‌ల ప్రవర్తన చాలా దారుణంగా ఉందని అన్నారు. గత వారం కొందరు డిప్యూటీ షెరీఫ్‌ల పనితీరు గమనించానని చెప్పారు. న్యాయ విభాగం ముందు తనతో సహా ఎవ్వరూ ఎక్కువ కాదని వెల్లడించారు.
 
-dg
-dg
-dfg
-fdg
-fg
-fgfd
+
 gjkfdddddddddjkkkkkkkkkkkkkkkkkkkkkkkkkdfkjldjkfdgdjkj
 The default interaction model with Jenkins, historically, has been very web UI driven, requiring users to manually create jobs, then manually fill in the details through a web browser. This requires additional effort to create and manage jobs to test and build multiple projects, it also keeps the configuration of a job to build/test/deploy separate from the actual code being built/tested/deployed. This prevents users from applying their existing CI/CD best practices to the job configurations themselves.
 
